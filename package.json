@@ -1,0 +1,15 @@
+{
+	"name": "prompt-engineering",
+	"version": "1.0.0",
+	"description": "These are going to be notes for learning about prompt engineering",
+	"main": "index.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node index.ts"
+	},
+	"author": "Bharat Mishra",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^5.1.6"
+	}
+}
