@@ -1,0 +1,22 @@
+{
+  "name": "embeddings_transformers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@xenova/transformers": "^2.5.2",
+    "dotenv": "^16.3.1",
+    "ts-node": "^10.9.1"
+  }
+}
