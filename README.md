@@ -2,4 +2,4 @@
 
 These are going to be notes for learning about prompt engineering
 
-Code will be available here in this [file](./main.ipynb).
+Code will be available here in this [file](./index.ts).
