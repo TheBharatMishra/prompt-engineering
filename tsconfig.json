@@ -3,9 +3,10 @@
   "compilerOptions": {
     // other compiler options...
     "esModuleInterop": true,
-    "module": "ES2022", // "module": "CommonJS" should work too
+    "module": "ESNext", // "module": "CommonJS" should work too,
+    "target": "ES2022",
     "moduleResolution": "Node"
   },
-  "include": ["*/**/*.ts"],
+  "include": ["*.ts"],
   "exclude": ["node_modules"]
 }
